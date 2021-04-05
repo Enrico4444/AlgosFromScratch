@@ -2,7 +2,7 @@
 
 This repository was made for fun and personal interest in knowing the deep functioning of the most popular ML/DL algorithms.  
 
-It includes algorithms developed by myself from scratch in Python Numpy all independently (credit for code snippets taken from the internet is always included). Many implementation steps were learned from Andrew Ng's Coursera Machine Learning and Deep Learning Courses. 
+It includes algorithms developed by myself from scratch in Python Numpy all independently (credit for code snippets taken from the internet is always included). 
 
 These are mainly for personal learning purposes, but I hope they can be useful for who wants to understand how algorithms work rather than just how to apply them.  
 
